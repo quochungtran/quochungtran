@@ -1,8 +1,23 @@
-<h2 align="left">Hi 👋! I am Quoc Hung</h2>
+<h2 align="left">Hi there 👋! I am Quoc Hung</h2>
 
 ###
 
-<p align="left">I'm a software engineer, open-source contributor and an AI long-life learner.</p>
+<p align="left">I'm a software engineer, open-source contributor and an AI lifelong learner.</p>
+
+I enjoy coding and writing. I've contributed to several open-source projects, and you can find detailed information about the latest ones I am currently working on below.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/tran-quochung/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at quochungtran1999@gmail.com.
+
+<h2 align="left">Open Source Projects</h2>
+
+Feel free to explore these projects and contribute if you're interested!
+
+| Projects | Latest Blog| Repository URL  |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **New DigiKam Plugin to Process Optical Character Recognition (OCR)**                      | [Status report](https://community.kde.org/GSoC/2022/StatusReports/QuocHungTran)                                         | [GitLab](https://invent.kde.org/graphics/digikam/-/tree/gsoc22-ocr-test)                         |
+| **Add Automatic Tags Assignment Tools and Improve Face Recognition Engine for digiKam**     | [Status report](https://community.kde.org/GSoC/2023/StatusReports/QuocHungTran)                                         | [GitLab](https://invent.kde.org/graphics/digikam/-/tree/gsoc23-autotags-assignment?ref_type=heads) |
+| **MLOps Implementation for Disaster Tweets Classifier Application**                        | [README](https://github.com/quochungtran/MLOps-NLP-with-disaster-tweets/blob/master/README.md)                          | [GitHub](https://github.com/quochungtran/MLOps-NLP-with-disaster-tweets)                         |
+| **LLMs automate document processing tasks for home loan documents, summarize and identify missing key info and support for approval** | [README](https://github.com/quochungtran/LLM-Intelligent-Document-Processing-in-Banking/blob/feature/init_project/README.md) | [GitHub](https://github.com/quochungtran/LLM-Intelligent-Document-Processing-in-Banking)         |
 
 ###
 
